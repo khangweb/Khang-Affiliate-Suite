@@ -101,10 +101,8 @@
             "KhangWeb\\Deeplink\\": "packages/KhangWeb/Deeplink/src",
             "KhangWeb\\ClientNotification\\": "packages/KhangWeb/ClientNotification/src",
             "KhangWeb\\ClientMessage\\": "packages/KhangWeb/ClientMessage/src",
-            "KhangWeb\\ClearCache\\": "packages/KhangWeb/ClearCache/src"
-
-          
-      
+            "KhangWeb\\ClearCache\\": "packages/KhangWeb/ClearCache/src",
+            "KhangWeb\\SharedPost\\": "packages/KhangWeb/SharedPost/src"   
         }
     },
     "autoload-dev": {

@@ -46,6 +46,7 @@ return [
         \KhangWeb\Deeplink\Providers\ModuleServiceProvider::class,
         \KhangWeb\ClientNotification\Providers\ModuleServiceProvider::class,
         \KhangWeb\ClientMessage\Providers\ModuleServiceProvider::class,
+          \KhangWeb\SharedPost\Providers\ModuleServiceProvider::class,
         \KhangWeb\ClearCache\Providers\ModuleServiceProvider::class
     ],
 

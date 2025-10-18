@@ -1,9 +1,0 @@
-{
-    "name": "khangweb/clear-cache",
-    "description": "Clear cache mạnh cho Bagisto",
-    "autoload": {
-        "psr-4": {
-            "KhangWeb\\ClearCache\\": "src/"
-        }
-    }
-}

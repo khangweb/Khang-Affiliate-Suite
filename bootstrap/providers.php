@@ -47,5 +47,6 @@ return [
     KhangWeb\Deeplink\Providers\DeeplinkServiceProvider::class,
     KhangWeb\ClientNotification\Providers\ClientNotificationServiceProvider::class,
     KhangWeb\ClientMessage\Providers\ClientMessageServiceProvider::class,   
+    KhangWeb\SharedPost\Providers\SharedPostServiceProvider::class,
     KhangWeb\ClearCache\Providers\ClearCacheServiceProvider::class,   
 ];
