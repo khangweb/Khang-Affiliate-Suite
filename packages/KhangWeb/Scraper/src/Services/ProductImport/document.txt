@@ -1,0 +1,16 @@
+/*** Kiến trúc ***/
+ProductImporterService
+├── AttributeService
+├── ProductBuilderService
+├── SimpleProductGeneratorService
+├── InventoryService
+├── MediaService
+├── FlatSyncService
+├── SlugGenerator
+
+
+Vấn đề còn tồn động
+
+*** Scrape Exténion ***
+Lazada: chưa xử lý lấy tên giá trị thuộc tính đầu tiên: https://www.lazada.vn/products/3-size-42-70kg-do-bo-lua-latin-no-truoc-nguc-mem-mat-sieu-de-thuong-thoi-trang-i1085922456-s13465096935.html
+Nếu giá biến thể ở dạng XXX - YYY thì sử lý thế nào
